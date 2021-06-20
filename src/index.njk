@@ -1,15 +1,24 @@
 ---
-title: Home
+title: Coding With Friends
 layout: layouts/base.njk
 ---
-
 <div class="space-y-8">
 
-  <div>
-    <p>This is the project's home page. There is a little styling for demonstration purposes only.</p>
-    <p>The navigation might as well be a sidebar, or a floating menu. This template provides the structure, make it yours ✌️</p>
+  <div class="max-w-prose lg:text-4xl sm:text-6xl sm:py-14 pb-4">
+    <p class="font-normal">Coding with Friends casually and simply claims space for womxn creators. The series extends the idea of live coding as a form of camaraderie, friendship and self-care. </p>
+  </div>
+  
+  <div class="flex lg:flex-row sm:flex-wrap">
+  <div class="max-w-prose pr-24">
+    <h2 class="font-sans font-bold lg:text-3xl mb-4 sm:text-7xl">Latest Streams</h2>
+    {% set friendslist = collections.friends %}
+    {% include "components/friendsfeature.njk" %}
   </div>
 
-
-  <a href="https://github.com/tomreinert/minimal-11ty-tailwind-starter" class="inline-block uppercase rounded bg-blue-600 hover:bg-blue-700 px-4 py-2 text-white text-sm">Download on github</a>
+  <div class="max-w-prose pr-24">
+    <h2 class="font-sans font-bold lg:text-3xl mb-4 sm:text-7xl">Blog Updates</h2>
+    {% set postslist = collections.posts %}
+    {% include "components/postsfeature.njk" %}
+  </div>
+</div>
 </div>

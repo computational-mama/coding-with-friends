@@ -1,0 +1,10 @@
+---
+title: Friends
+layout: layouts/base.njk
+permalink: /friends/
+eleventyNavigation:
+  key: Friends
+  order: 0
+---
+{% set friendslist = collections.friends %}
+{% include "components/friendslist.njk" %}

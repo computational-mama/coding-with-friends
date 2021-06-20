@@ -1,0 +1,13 @@
+<ul>
+  {% for friend in friendslist %}
+    <li>
+      <strong>
+        <a href="{{ friend.url | url }}">{{ friend.data.title }}</a>
+      </strong>
+      -
+      <time datetime="{{ friend.date | htmlDateString }}">{{ friend.date | readableDate }}</time>
+      -
+      <span>{{ friend.data.description }}</span>
+    </li>
+  {% endfor %}
+</ul>
