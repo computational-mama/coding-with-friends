@@ -1,5 +1,5 @@
 <nav class="flex items-center justify-between flex-wrap px-5 py-3 border-b">
-  <a href="/" class="font-mono font-black text-xl tracking-tight">Home</a>
+  <a href="/" class="font-sans font-black uppercase text-xl tracking-tight sm:text-4xl">Home</a>
 
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
@@ -9,7 +9,7 @@
          href="{{ entry.url }}"
          class="uppercase text-sm py-1 px-2 rounded mr-4 inline-block
          {{'bg-white text-black' if entry.url in page.url
-         else 'text-gray-700 hover:text-gray-900'}}">
+         else 'text-gray-700 hover:text-gray-900'}} sm:text-4xl">
          {{ entry.title }}
        </a>
       </li>
@@ -17,7 +17,7 @@
         <li class="inline">
         <a
          href="https://twitch.tv/computational_mama" target="_blank"
-         class="uppercase text-sm py-1 px-2 rounded mr-4 inline-block">
+         class="uppercase text-sm py-1 px-2 rounded mr-4 inline-block sm:text-4xl">
          Twitch
        </a>
       </li>

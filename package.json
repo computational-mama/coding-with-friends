@@ -29,6 +29,8 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "@11ty/eleventy-img": "^0.9.0",
+    "eleventy-plugin-embed-everything": "^1.13.2",
     "postcss": "^8.1.7"
   }
 }

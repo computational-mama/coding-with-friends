@@ -1,20 +1,16 @@
 {
     "items": [
         {
-            "name": "test@example.com",
+            "name": "ambika [at] ajaibghar [dot] com",
             "link": "mailto:test@example.com"
         },
         {
-            "name": "Twitter",
-            "link": "https://twitter.com/…"
-        },
-        {
             "name": "GitHub",
-            "link": "https://github.com/…"
+            "link": "https://github.com/computational-mama"
         },
         {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "name": "Instagram",
+            "link": "https://instagram.com/computational-mama"
         }
     ]
 }

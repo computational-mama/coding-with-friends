@@ -1,13 +1,14 @@
-<ul>
+<ul class="pb-16">
   {% for friend in friendslist %}
-    <li>
+    <li class="py-8 lg:py-2">
       <strong>
-        <a href="{{ friend.url | url }}">{{ friend.data.title }}</a>
+        <a class="font-sans lg:text-3xl md:text-7xl sm:text-7xl underline hover:bg-pink-50" href="{{ friend.url | url }}">{{ friend.data.title }}</a>
       </strong>
-      -
-      <time datetime="{{ friend.date | htmlDateString }}">{{ friend.date | readableDate }}</time>
-      -
-      <span>{{ friend.data.description }}</span>
+      <br>
+      <span class="lg:text-xl md:text-5xl sm:text-5xl">{{ friend.data.description }}</span>
+      <br>
+      <time class="lg:text-sm md:text-3xl sm:text-3xl" datetime="{{ friend.date | htmlDateString }}">{{ friend.date | readableDate }}</time>
+    
     </li>
   {% endfor %}
 </ul>

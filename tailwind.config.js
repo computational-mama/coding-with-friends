@@ -33,6 +33,8 @@ module.exports = {
       pink: colors.pink,
       red: colors.red,
       purple: colors.purple,
+      black: colors.black,
+      white: colors.white,
     },
     fontFamily: {
       sans: ['Space Grotesk', 'sans-serif'],
