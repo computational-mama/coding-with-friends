@@ -3,7 +3,7 @@ title: Anushka Trivedi
 description: Shaders and more
 date: 2020-10-24
 insta: "https://instagram.com/ophelia.game"
-profileimg: /src/images/anushka.png
+profileimg: src/images/anushka.png
 bio: anushka is a creative technologist. She claimes to be a bezier evangelist and has made some amazing experiments with shaders, text and code.
 videolink: "https://youtu.be/q6LTa1ayatA"
 ---
