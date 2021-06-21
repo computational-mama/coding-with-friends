@@ -4,19 +4,19 @@ layout: layouts/base.njk
 <div class="lg:max-w-prose md:max-w-full sm:max-w-full">
 <p class="py-8 lg:text-lg md:text-3xl sm:text-3xl">{{ date | readableDate }}</p>
 <div class="flex flex-wrap items-center pb-6">
-<div class="rounded-full w-24 h-24 bg-purple-400">
-<img class="object-fit"src="{{ profileimg }}" alt="test">
+<div class="md:w-48 md:h-48 rounded-full bg-purple-400">
+<img class="object-fit rounded-full" src="{{ profileimg }}" alt="test">
 </div>
 <h1 class="lg:text-3xl md:text-6xl sm:text-6xl font-bold lg:p-4 md:p-8 sm:p-8">{{ title }}</h1>
 </div>
-<div class="rounded-md bg-white p-8 flex flex-wrap mb-8">
+<div class="rounded-lg bg-white p-8 flex flex-wrap mb-8">
 <p class="lg:text-xl md:text-5xl sm:text-5xl pb-6">{{ bio }}</p>
 <p class="lg:text-base md:text-4xl sm:text-4xl"><a href="{{ insta }}" class="underline" target="_blank">Instagram</a></p>
 </div>
 <h2 class="font-bold pb-8 lg:text-xl md:text-5xl sm:text-5xl">About the stream</h2>
 {{ content | safe }}
 
-<h2 class="font-bold pb-8 lg:text-xl md:text-5xl sm:text-5xl">Link to the project</h2>
+<h2 class="font-bold py-8 lg:text-xl md:text-5xl sm:text-5xl">Link to the project</h2>
 <p class="lg:text-base md:text-4xl sm:text-4xl pb-16"><a href="{{ projectlink }}" class="underline" target="_blank">Project Link</a></p>
 
 </div>

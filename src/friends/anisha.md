@@ -1,9 +1,11 @@
 ---
-layout: layouts/friend.njk
 title: Anisha Thampy
-description: The second post on the blog
-date: 2020-09-01
+description: 3D and p5js with Theyyam elements
+date: 2020-10-24
 insta: "https://instagram.com/anishathampy"
+profileimg: /images/Pooja.png
+bio: graphic designer
+videolink: "https://youtu.be/q6LTa1ayatA"
 ---
 
 anisha is a graphic designer

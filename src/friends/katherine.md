@@ -1,9 +1,9 @@
 ---
 title: Katherine Yang
 description: Bilinguality in p5js 
-date: 2020-10-24
+date: 2020-10-07
 insta: "https://instagram.com/kayserifserif"
-profileimg: /src/images/anushka.png
+profileimg: /images/anushka.png
 bio: anushka is a creative technologist. She claimes to be a bezier evangelist and has made some amazing experiments with shaders, text and code.
 videolink: "https://youtu.be/9-4H2PuZlsU"
 projectlink: https://glitch.com/~coding-with-friends-kayserifserif

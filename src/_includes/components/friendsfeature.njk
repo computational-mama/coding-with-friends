@@ -1,5 +1,5 @@
     <ul class="font-sans font-light lg:text-2xl md:text-6xl sm:text-6xl pb-16">
-      {% for friend in friendslist %}
+      {% for friend in friendslist.slice(0,2) %}
         <li class="lg:pb-1 sm:pb-4">
           <strong>
             <a href="{{ friend.url | url }}">{{ friend.data.title }}</a>
