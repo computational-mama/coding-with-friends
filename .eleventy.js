@@ -9,7 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(embeds);
 
   eleventyConfig.addPassthroughCopy('./src/images')
-  
+
   const {
     DateTime
   } = require("luxon");

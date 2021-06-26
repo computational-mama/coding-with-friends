@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    a {
+      @apply underline;
+    }
+    .eleventy-plugin-youtube-embed {
+        @apply my-6;
+    }
+  }

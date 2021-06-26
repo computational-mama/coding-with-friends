@@ -17,11 +17,11 @@ projimg2: /images/anushka-proj2.png
 projimg3: /images/anushka-proj3.png
 ---
 
-I had been following Anushka's experiments with shaders and typography on Instagram. At the time, I had found a super strange and funny website called a [this chair does not exist](https://thischairdoesnotexist.com/). course, we had to stream it! 
+I had been following Anushka's experiments with shaders and typography on Instagram. At the time, I had found a super strange and funny website called a [this chair does not exist](https://thischairdoesnotexist.com/). Of course, we had to stream it! 
 
 It got me thinking about sitting as an act - for work, leisure or protest. I wanted to start spinning these GAN chairs in the p5js environment. Anushka and I started think about how we could add her shader textures to these 3D objects in p5js. Of course we had to stream it. This is also when we realised I know nothing about shaders - so the stream became more about setting up basic GLSL shader and porting it to p5js. 
 
 While at the time I thought I understood what she was doing, I haven't really wrapped my head around shaders even now! 
 
-
+{{ videolink }}
 
