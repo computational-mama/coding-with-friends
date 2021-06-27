@@ -1,8 +1,12 @@
 <ul class="font-sans font-light lg:text-2xl sm:text-6xl pb-16">
   {% for post in postslist.slice(0,2) %}
     <li class="lg:pb-1 sm:pb-4">
+      <li class="lg:pb-1 sm:pb-4 flex flex-row items-center">
+          {% if post.data.thumb %}
+<img class="md:w-36 md:h-36 lg:w-24 lg:w-24 2xl:h-24 2xl:h-24 object-cover rounded-full" src="{{ post.data.thumb }}" alt="test">
+{% endif %}
       <strong>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <a class="ml-4" href="{{ post.url | url }}">{{ post.data.title }}</a>
       </strong>
     </li>
   {% endfor %}

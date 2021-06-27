@@ -3,4 +3,5 @@ layout: layouts/base.njk
 ---
 
 <h3>{{ date | readableDate }}</h3>
-<p class="font-bold">{{ content | safe }}</p>
+<h1 class="lg:text-3xl md:text-6xl sm:text-6xl font-bold lg:py-4 md:py-8 sm:py-8">{{ title }}</h1>
+<p class="lg:text-xl md:text-5xl sm:text-5xl">{{ content | safe }}</p>

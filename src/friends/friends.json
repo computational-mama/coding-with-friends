@@ -1,4 +1,5 @@
 {
     "layout": "layouts/friend.njk",
-    "tags": "friends"
+    "tags": "friends",
+    "thumb": "{{ profileimg }}"
 }
