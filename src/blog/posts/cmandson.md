@@ -8,3 +8,5 @@ date: 2021-06-27
 
 Son enjoying stream, cmama struggling to type! 
 ![image](/images/cmandson.png)
+
+😆
