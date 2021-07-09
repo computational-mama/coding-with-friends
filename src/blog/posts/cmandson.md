@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: cmama and son
 thumb: /images/cmandson.png
 description: The first post on the blog

@@ -1,13 +1,17 @@
-<ul class="pb-16">
+<div class="max-w-prose flex flex-col">
   {% for post in postslist %}
-    <li class="py-8 lg:py-2">
+  <div class="flex flex-row items-center">
+    <p class="py-8 pr-5 lg:py-2">
       <strong>
-        <a class="font-sans lg:text-3xl md:text-7xl sm:text-7xl underline hover:bg-pink-50" href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <a class="font-sans lg:text-3xl md:text-7xl sm:text-7xl no-underline hover:bg-pink-50" href="{{ post.url | url }}">{{ post.data.title }}</a>
       </strong>
-      -
+     </p>
+     <p class="md:hidden sm:hidden lg:flex xl:flex 2xl:flex">
       <time class="lg:text-sm md:text-3xl sm:text-3xl" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-      -
+     </p>
+    </div>
+  <p class="pb-10 border-b">
       <span class="lg:text-xl md:text-5xl sm:text-5xl">{{ post.data.description }}</span>
-    </li>
+    </p>
   {% endfor %}
-</ul>
+</div>

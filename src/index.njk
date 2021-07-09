@@ -17,7 +17,7 @@ layout: layouts/base.njk
 
   <div class="max-w-prose pr-24">
     <h2 class="font-sans font-bold lg:text-3xl md:text-5xl mb-4 sm:text-7xl">Blog Updates</h2>
-    {% set postslist = collections.posts %}
+    {% set postslist = collections.posts | reverse %}
     {% include "components/postsfeature.njk" %}
   </div>
 </div>

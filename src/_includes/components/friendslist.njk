@@ -1,8 +1,8 @@
-<ul class="pb-16">
+<ul class="pb-16 max-w-prose">
   {% for friend in friendslist %}
-    <li class="py-8 lg:py-2">
+    <li class="py-12 lg:py-6 border-b">
       <strong>
-        <a class="font-sans lg:text-3xl md:text-7xl sm:text-7xl underline hover:bg-pink-50" href="{{ friend.url | url }}">{{ friend.data.title }}</a>
+        <a class="font-sans lg:text-3xl md:text-7xl sm:text-7xl no-underline hover:bg-pink-50" href="{{ friend.url | url }}">{{ friend.data.title }}</a>
       </strong>
       <br>
       <span class="lg:text-xl md:text-5xl sm:text-5xl">{{ friend.data.description }}</span>

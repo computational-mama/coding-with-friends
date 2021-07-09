@@ -5,8 +5,8 @@
           {% if post.data.thumb %}
 <img class="md:w-36 md:h-36 lg:w-24 lg:w-24 2xl:h-24 2xl:h-24 object-cover rounded-full" src="{{ post.data.thumb }}" alt="test">
 {% endif %}
-      <strong>
-        <a class="ml-4" href="{{ post.url | url }}">{{ post.data.title }}</a>
+      <strong class="pl-10">
+        <a class="no-underline" href="{{ post.url | url }}">{{ post.data.title }}</a>
       </strong>
     </li>
   {% endfor %}

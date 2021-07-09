@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Processing Fellowship 2021
 thumb: /images/codingwithfriends-thumbnail.png
 description: Coding with Friends in the Processing Foundation Fellowship 2021

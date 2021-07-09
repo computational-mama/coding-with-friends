@@ -6,5 +6,5 @@ eleventyNavigation:
   key: Friends
   order: 0
 ---
-{% set friendslist = collections.friends %}
+{% set friendslist = collections.friends | reverse %}
 {% include "components/friendslist.njk" %}
