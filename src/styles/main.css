@@ -9,4 +9,16 @@
     .eleventy-plugin-youtube-embed {
         @apply my-6;
     }
+
+    main p {
+      @apply py-2
+    }
+
+    main strong {
+      @apply font-bold
+    }
+
+    main h2 {
+      @apply lg:text-2xl md:text-5xl sm:text-5xl font-bold pt-8 pb-4
+    }
   }
