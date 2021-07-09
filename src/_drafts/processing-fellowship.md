@@ -7,9 +7,6 @@ date: 2021-06-29
 ---
 
 
-
-
-~~~
 ## Processing Fellowship application details 
 
 ** CODING WITH FRIENDS **
