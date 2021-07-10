@@ -6,6 +6,9 @@ const embeds = require("eleventy-plugin-embed-everything");
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPassthroughCopy({
+    "./src/admin/config.yml": "./admin/config.yml"
+  });
   eleventyConfig.addPlugin(embeds);
 
   eleventyConfig.addPassthroughCopy('./src/images')
