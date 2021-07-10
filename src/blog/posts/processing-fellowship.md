@@ -6,9 +6,9 @@ date: 2021-07-09
 ---
 I'm so thrilled and nervous to be part of the [Processing Foundation Fellows of 2021](https://processingfoundation.org/fellowships). As I've been navigating through the creative computation space over the last few years, I found an encouraging community of makers, but hardly any womxn. It's not that there aren't any womxn but we are in our own bubbles, unsurely navigating through these spaces and not able to create the kinships and bonds that we need to grow. 
 
-Often we hear that "they dove into their work through a tough period in their lives", this anecdote has been true for me and I suppose many others around me. Creative coding gave me that space to heal and process some tough life changes and **Coding with Friends** hopes to extends and share that space with others too. One already senses a growing, informal network of friendships through creative coding. The first act of developing a new frienship is to openly share something that you hold dear (a feeling, an idea, an anecdote or even a smile). 
+Often we hear that "they dove into their work through a tough period in their lives", this anecdote has been true for me and I suppose many others around me. Creative coding gave me that space to heal and process some tough life changes and **Coding with Friends** hopes to extends and share that space with others too. One already senses a growing, informal network of friendships through creative coding. The first act of developing a new friendship is to openly share something that you hold dear (a feeling, an idea, an anecdote or even a smile). 
 
-As the next season of the Coding with Friends unfolds over the coming two weeks. I'm sharing the relevant section of my fellowship proposal as a first act! 
+As the next season of Coding with Friends unfolds over the coming two weeks. I'm sharing the relevant section of my fellowship proposal as a first act! 
 
 Join me and some wonderful friends from 16th-20th July 2021 for some fun, casual, exciting, emotional and soft conversations along with some code! ;)
 
