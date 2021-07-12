@@ -4,20 +4,22 @@ thumb: /images/7fb61fe9-4b3e-43af-bc3c-c03fe9a7c0ef.png
 description: Meeting the womxn from season 1
 date: 2021-07-12T03:46:46.740Z
 ---
-Today I invited the past guests from coding with friends for an informal chat and conversation. 
+![Screenshot of 5 women on a virtual meeting platform](/images/7fb61fe9-4b3e-43af-bc3c-c03fe9a7c0ef.png "Past Coding with Friends guests")
 
-It was just no agenda kind of meeting where all of us just got together and had some conversation the five past guests from the streams were not familiar with each other except for Anisha and Pooja who overlapped some years ago at the same design studio it was nice for them to sort of interact with each other in and learn about each other outside of the scope of just work Catherine requested Pooja for a viewing of a bookshelf which was so nice to see because Puja has an amazing collection of books Anisha spoke about her cat its vaccination and some other fun activities she had done with her nephew in Kerala
+I invited the past guests from Coding with Friends for an informal chat and conversation. 
 
-Catherine spoke about moving back to the US to continue her studies and a new internship that she has at fathom
+It was just no agenda kind of meeting where all of us just got together and had some conversation. The five past guests from the streams were not familiar with each other except for Anisha and Pooja who overlapped some years ago at the same design studio. It was nice for them to sort of interact with each other in and learn about each other outside of the scope of just work Katherine requested Pooja for a viewing for her rather prized bookshelf. This was a lot of fun - Pooja has an amazing collection of books and the bookshelf is kind of central to the design of her home! Anisha spoke about her new cat it's vaccination and some other fun activities with her nephew in Kerala, India.
 
-Anushka told us about her interest in in old Indian TV show called Alif Laila which is based on the Arabian nights
+Katherine spoke about moving back to the US to continue her studies and a new internship that she has at the information design studio [Fathom](https://fathom.info/)
 
-The discussions varied from design to guillotine and torture weapons
+Anushka told us about her interest in an old Indian TV show called [Alif Laila](https://en.wikipedia.org/wiki/Alif_Laila) which is based on the Arabian nights. In the early 90s in India, we had only one nationalised TV channel and this was a show that aired on it. 
 
-Eventually the conversation lead to pockets how that is so essential to clothing and yet women never tend to have pockets in that we discussed how women used to carry their money wallet and keys in the past in India it’s common to tuck them in your blouse close to your chest
+This veered the discussions varied into guillotines and torture weapons, nested story structures, design and several other things. 
 
-We spoke about several other things in between and the conversation when in its own direction with no obligation to speak about work
+Eventually the conversation lead to POCKETS - how that is so essential to clothing and yet women never tend to have pockets in their clothing. It was common in India for women to tuck their money, wallet and keys in their saree blouses. 
+
+We spoke about several other things in between and the conversation when in its own direction with no obligation to speak about work.
 
 Eventually I told them about upcoming streams and the guests that I’m invited it was nice to share that with them and to see where things can lead
 
-Pooja also mentioned that she and typography colleague of hers are considering a similar series of typography with friends and I love the idea that this allows for any activity that you can do with others conversation builder to bring people together and to just enjoy ourselves while we do something interesting
+Pooja also mentioned that she and typography colleague of hers are considering a similar series of **typography with friends** and I love the idea that this allows for any activity to fit into the mode of "with friends".
