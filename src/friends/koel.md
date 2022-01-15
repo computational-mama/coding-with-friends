@@ -1,7 +1,7 @@
 ---
 title: Koel Sen
 description: Feedback loops, and experimental visions through cameras
-date: 2022-01-15T13:22:11.964Z
+date: 2021-07-19T13:22:11.964Z
 insta: https://www.instagram.com/sensko/
 profileimg: /images/koel.png
 bio: Koel is a Mumbai based filmmaker and live video artist. Trained at the Film
