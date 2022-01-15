@@ -1,7 +1,7 @@
 ---
-title: Deepikah
+title: Deepikah RB
 description: Biryanis, Bartans (utensils) and living a killjoy life
-date: 2022-01-15T13:10:02.718Z
+date: 2021-07-17T13:10:02.718Z
 insta: https://www.instagram.com/deepikah/
 profileimg: /images/deepikah.png
 bio: Deepikah is an interdisciplinary artist based in Bangalore, India. Trained
