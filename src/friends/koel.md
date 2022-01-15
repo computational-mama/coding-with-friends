@@ -1,5 +1,5 @@
 ---
-title: Koel
+title: Koel Sen
 description: Feedback loops, and experimental visions through cameras
 date: 2022-01-15T13:22:11.964Z
 insta: https://www.instagram.com/sensko/
@@ -18,3 +18,5 @@ videolink: https://www.youtube.com/watch?v=fHss7bE8J6k
 screenshotimg: /images/screenshot-2022-01-15-at-6.58.27-pm.png
 ---
 ZX
+
+{{ videolink }}
