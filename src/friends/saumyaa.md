@@ -1,5 +1,5 @@
 ---
-title: Saumyaa
+title: Saumyaa Naidu
 description: Data viz with Trump and p5js
 date: 2021-07-21T06:40:43.376Z
 insta: https://www.instagram.com/saumyaanaidu/
