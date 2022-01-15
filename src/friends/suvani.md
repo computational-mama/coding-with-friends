@@ -1,7 +1,7 @@
 ---
 title: Suvani
 description: Whispering sweet nothings to computers
-date: 2022-01-15T12:50:48.622Z
+date: 2021-07-20T16:01:36.881Z
 insta: https://www.instagram.com/suvanisuri/
 profileimg: /images/suvani.png
 bio: Suvani is an artist and researcher based in Delhi, India. Actively engaged
