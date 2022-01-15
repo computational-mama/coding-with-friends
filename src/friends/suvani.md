@@ -1,5 +1,5 @@
 ---
-title: Suvani
+title: Suvani Suri
 description: Whispering sweet nothings to computers
 date: 2021-07-20T16:01:36.881Z
 insta: https://www.instagram.com/suvanisuri/
