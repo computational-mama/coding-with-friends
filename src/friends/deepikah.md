@@ -15,7 +15,12 @@ bio: Deepikah is an interdisciplinary artist based in Bangalore, India. Trained
   Your Thought Here.
 website: https://www.deepikah.co/
 videolink: https://www.youtube.com/watch?v=VO_Aawjn9Ec
+ref1: /images/article-1.jpg
+ref2: /images/web1.jpg
 screenshotimg: /images/image3.png
+projimg1: /images/deepikah-ss-2.png
+projimg2: /images/deepikah-ss-2.png
+projimg3: /images/deepikah-ss-3.png
 ---
 sdd
 
