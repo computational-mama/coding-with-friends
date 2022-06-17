@@ -10,8 +10,9 @@ bio: Saumyaa is a Design Researcher at the Centre for Internet and Society. She
   interests include design history, design criticism, and cultural studies.
 videolink: https://youtu.be/I2lHiVan9zk
 projectlink: https://github.com/computational-mama/saumyaa-image-repo
+ref1: /images/article-1.jpg
 screenshotimg: /images/screenshot-2021-07-16-174342.png
-projimg1: /images/7fb61fe9-4b3e-43af-bc3c-c03fe9a7c0ef.png
+projimg1: /images/dataviz-1.png
 ---
 test
 
